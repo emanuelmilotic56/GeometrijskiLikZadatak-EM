@@ -1,0 +1,7 @@
+C:\Users\Milotić\source\repos\GeometrijskiLikoviZadatak-EM\GeometrijskiLikoviZadatak-EM\bin\Debug\GeometrijskiLikoviZadatak-EM.exe.config
+C:\Users\Milotić\source\repos\GeometrijskiLikoviZadatak-EM\GeometrijskiLikoviZadatak-EM\bin\Debug\GeometrijskiLikoviZadatak-EM.exe
+C:\Users\Milotić\source\repos\GeometrijskiLikoviZadatak-EM\GeometrijskiLikoviZadatak-EM\bin\Debug\GeometrijskiLikoviZadatak-EM.pdb
+C:\Users\Milotić\source\repos\GeometrijskiLikoviZadatak-EM\GeometrijskiLikoviZadatak-EM\obj\Debug\GeometrijskiLikoviZadatak-EM.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\GeometrijskiLikoviZadatak-EM\GeometrijskiLikoviZadatak-EM\obj\Debug\GeometrijskiLikoviZadatak-EM.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\GeometrijskiLikoviZadatak-EM\GeometrijskiLikoviZadatak-EM\obj\Debug\GeometrijskiLikoviZadatak-EM.exe
+C:\Users\Milotić\source\repos\GeometrijskiLikoviZadatak-EM\GeometrijskiLikoviZadatak-EM\obj\Debug\GeometrijskiLikoviZadatak-EM.pdb
